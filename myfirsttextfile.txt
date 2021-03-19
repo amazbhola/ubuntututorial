@@ -1,0 +1,48 @@
+text file create commend in linux
+
+cat> filename.txt
+
+3 way to create file in linux
+
+1. cat 
+2. touch 
+3. nano
+-------------------------------------------
+Create Directry in linux
+How to make a folder in Linux
+
+mkdir folder
+mkdir [option] folderName
+mkdir directory
+-------------------------------------------
+To See directory
+run terminal and write ls
+
+To See directory with hidden file
+ls -a
+
+To back directory 
+cd space .. /cd ..
+-------------------------------------------
+create Hidden File
+before file or folder name + .
+** Show Hidden File ----
+
+in folder
+
+ctrl+h
+
+
+=================================
+
+xampp like lampp 
+
+lampp apachi server not start reason port conflic
+
+change 
+/opt/lampp/etc/httpd.conf
+
+Listen 80 to 8000
+
+------------------------------------
+
